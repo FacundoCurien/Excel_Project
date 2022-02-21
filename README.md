@@ -13,5 +13,5 @@ An Excel project where I performed a data cleaning, a data exploration and a dat
 * `MID`.
 * `RIGHT`.
 * `INDEX`
-* `ROUND'.
+* `ROUND`.
 * `Date Functions`.
